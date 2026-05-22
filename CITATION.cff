@@ -6,23 +6,23 @@ abstract: >
   A reusable R pipeline for bibliometric mapping of scientific production
   using Scopus CSV exports, VOSviewer keyword co-occurrence analysis,
   and GAM Poisson statistical modeling of publication trends.
-  Developed for the study: Tracing the Intellectual Structure of
-  Ethnomathematics Through Keyword Co-occurrence Mapping and Statistical
-  Modeling of Scientific Production.
 authors:
   - family-names: "Rodríguez-Nieto"
     given-names: "Camilo Andrés"
-    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+    orcid: "https://orcid.org/0000-0001-9922-4079"
+    affiliation: "Universidad de la Costa, Colombia"
   - family-names: "Castillo-Navarro"
     given-names: "Harold"
-    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+    orcid: "https://orcid.org/0000-0002-2824-0861"
+    affiliation: "Universidad de la Costa, Colombia"
   - family-names: "Sudirman"
     given-names: "Sudirman"
-    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+    orcid: "https://orcid.org/0000-0002-1696-5160"
+    affiliation: "Universitas Terbuka, Indonesia"
 version: "1.0.0"
 date-released: "2026-05-22"
 license: MIT
-repository-code: "https://github.com/USUARIO/ethnomathematics-bibliometric"
+repository-code: "https://github.com/hcastillonav/ethnomathematics-bibliometric"
 keywords:
   - ethnomathematics
   - bibliometric analysis
@@ -32,16 +32,18 @@ keywords:
   - R
   - Scopus
   - mathematics education
-  - scientometrics
 preferred-citation:
   type: article
   authors:
     - family-names: "Rodríguez-Nieto"
       given-names: "Camilo Andrés"
+      orcid: "https://orcid.org/0000-0001-9922-4079"
     - family-names: "Castillo-Navarro"
       given-names: "Harold"
+      orcid: "https://orcid.org/0000-0002-2824-0861"
     - family-names: "Sudirman"
       given-names: "Sudirman"
+      orcid: "https://orcid.org/0000-0002-1696-5160"
   title: >
     Tracing the Intellectual Structure of Ethnomathematics Through
     Keyword Co-occurrence Mapping and Statistical Modeling of
