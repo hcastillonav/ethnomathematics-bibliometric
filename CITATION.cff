@@ -21,7 +21,7 @@ authors:
     affiliation: "Universitas Terbuka, Indonesia"
 version: "1.0.0"
 date-released: "2026-05-22"
-license: MIT
+license: doi: "10.5281/zenodo.20347248"
 repository-code: "https://github.com/hcastillonav/ethnomathematics-bibliometric"
 keywords:
   - ethnomathematics
