@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Ethnomathematics Bibliometric Analysis Pipeline"
+abstract: >
+  A reusable R pipeline for bibliometric mapping of scientific production
+  using Scopus CSV exports, VOSviewer keyword co-occurrence analysis,
+  and GAM Poisson statistical modeling of publication trends.
+  Developed for the study: Tracing the Intellectual Structure of
+  Ethnomathematics Through Keyword Co-occurrence Mapping and Statistical
+  Modeling of Scientific Production.
+authors:
+  - family-names: "Rodríguez-Nieto"
+    given-names: "Camilo Andrés"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+  - family-names: "Castillo-Navarro"
+    given-names: "Harold"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+  - family-names: "Sudirman"
+    given-names: "Sudirman"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+version: "1.0.0"
+date-released: "2026-05-22"
+license: MIT
+repository-code: "https://github.com/USUARIO/ethnomathematics-bibliometric"
+keywords:
+  - ethnomathematics
+  - bibliometric analysis
+  - VOSviewer
+  - keyword co-occurrence
+  - GAM Poisson
+  - R
+  - Scopus
+  - mathematics education
+  - scientometrics
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Rodríguez-Nieto"
+      given-names: "Camilo Andrés"
+    - family-names: "Castillo-Navarro"
+      given-names: "Harold"
+    - family-names: "Sudirman"
+      given-names: "Sudirman"
+  title: >
+    Tracing the Intellectual Structure of Ethnomathematics Through
+    Keyword Co-occurrence Mapping and Statistical Modeling of
+    Scientific Production
+  journal: "International Journal of Science and Mathematics Education"
+  year: 2026
+  notes: "Under review"
