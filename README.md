@@ -2,8 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![R Version](https://img.shields.io/badge/R-%3E%3D4.3.0-blue)](https://www.r-project.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20347248.svg)](https://doi.org/10.5281/zenodo.20347248)
-[![Journal](https://img.shields.io/badge/Target-IJSME%20Springer-orange)](https://link.springer.com/journal/10763)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20347248-blue)](https://doi.org/10.5281/zenodo.20347248)[![Journal](https://img.shields.io/badge/Target-IJSME%20Springer-orange)](https://link.springer.com/journal/10763)
 
 ---
 
